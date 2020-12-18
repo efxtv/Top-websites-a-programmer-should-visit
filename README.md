@@ -3,7 +3,7 @@
     <a href="https://www.youtube.com/channel/UCIWHXkNEHsedIz62jUJwAew"><img width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/800px-YouTube_social_red_circle_%282017%29.svg.png" alt="EVX-Tv-Youtube">
         <a href="https://www.facebook.com/pg/TechEFXTV"><img width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" alt="EFX-Tv-Facebook">
             <a href="https://www.instagram.com/efxtv2020/"><img width="200" src="https://images.vexels.com/media/users/3/137380/isolated/preview/1b2ca367caa7eff8b45c09ec09b44c16-instagram-icon-logo-by-vexels.png" alt="EFX-Tv-Instagram">
-                <a href="https://t.me/Efxtv"><img width="200" src="https://th.bing.com/th/id/OIP.bhs4mdXyyImg_fY17HQ40AHaHa?pid=Api&rs=1" alt="EFX-Tv-Telegram">
+                <a href="https://t.me/Efxtv"><img width="200" src="https://th.bing.com/th/id/OIP.TYDzUhpWk69wWXyeceX4qgHaHa?pid=Api&rs=1" alt="EFX-Tv-Telegram">
         
         
        

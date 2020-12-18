@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <img width="200" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="awesome">
+    <img width="200" src="https://yt3.ggpht.com/ytc/AAUvwng9frp2Wg2gpqfA7G7YREXgoJFDMGV6Cn0o25E1Dg=s900-c-k-c0x00ffffff-no-rj" alt="awesome">
     <br>
 </h1>
 

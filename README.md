@@ -5,7 +5,9 @@
             <a href="https://www.instagram.com/efxtv2020/"><img width="200" src="https://images.vexels.com/media/users/3/137380/isolated/preview/1b2ca367caa7eff8b45c09ec09b44c16-instagram-icon-logo-by-vexels.png" alt="EFX-Tv-Instagram">
                 <a href="https://t.me/Efxtv"><img width="200" src="https://1.bp.blogspot.com/-z6TgKetxfoM/X9yXdZ1kLZI/AAAAAAAADKU/tbGsOasY8vMAV_K2Mz-rMLZraGeXgq0UgCLcBGAsYHQ/s482/New%2BProject.png" alt="EFX-Tv-Telegram">
                     <a href="https://uk2blogger.blogpost.com"><img width="200" src="https://1.bp.blogspot.com/-PSXs2pCDGVE/X9yXdRHC9fI/AAAAAAAADKY/elIXo42rS4UZVA757kr3ReRllShxKl8FQCLcBGAsYHQ/s512/blogger_icon-icons.com_59226.png" alt="EFX-Tv-BLOGGER">
-                        <a href="https://1.bp.blogspot.com/-HPFs3brRLQU/X9yYyYzpULI/AAAAAAAADKs/ZgdC5slkc_QuU_dwVVKsEbJYAgELqR9KACLcBGAsYHQ/s225/index.png"><img width="200" src="https://1.bp.blogspot.com/-PSXs2pCDGVE/X9yXdRHC9fI/AAAAAAAADKY/elIXo42rS4UZVA757kr3ReRllShxKl8FQCLcBGAsYHQ/s512/blogger_icon-icons.com_59226.png" alt="EFX-Tv-Pinterest">
+                        <a href="https://in.pinterest.com/efxtv/"><img width="200" src="https://1.bp.blogspot.com/-HPFs3brRLQU/X9yYyYzpULI/AAAAAAAADKs/ZgdC5slkc_QuU_dwVVKsEbJYAgELqR9KACLcBGAsYHQ/s225/index.png" alt="EFX-Tv-Pinterest">
+                            <a href="https://www.tumblr.com/blog/efxtv"><img width="200" src="https://cdn0.iconfinder.com/data/icons/flat-social-media-icons-set-round-style-1/550/tumblr-512.png" alt="EFX-Tv-tumblr">
+                            
                         
                         
                         
